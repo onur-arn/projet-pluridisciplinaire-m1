@@ -2,6 +2,8 @@
 
 Projet Pluridisciplinaire — **M1 Sciences Cognitives, parcours Intelligence Artificielle**
 
+Encadrants : **Mathieu D'Aquin**, **Hendry Ferreira Chame** et **Guénaël Cabanes**
+
 Équipe : PELLARD · BENDINI · ROUAG · ARSLAN · PURSON
 
 ---
