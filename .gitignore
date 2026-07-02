@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+*.icloud
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnements virtuels
+venv/
+webots-env/
+env/
+.env/
+
+# Fichiers de captures/screenshots
+Capture d'écran*
+
+# Fichiers CSV bruts générés (sorties d'acquisition)
+landmarks.csv
+face_landmarks.csv
+hand_landmarks.csv
+
+# Fichiers motion générés automatiquement (vitesses 1/2/3)
+nao/motions/*_1.motion
+nao/motions/*_2.motion
+nao/motions/*_3.motion
