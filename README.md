@@ -138,6 +138,6 @@ Webots doit être installé séparément : [cyberbotics.com](https://cyberbotics
 
 ## Contexte académique
 
-Projet réalisé dans le cadre du **Projet Pluridisciplinaire de M1 Sciences Cognitives**, parcours **Intelligence Artificielle**, à l'Université Paris Cité.
+Projet réalisé dans le cadre du **Projet Pluridisciplinaire de M1 Sciences Cognitives**, parcours **Intelligence Artificielle**, à l'Université de Lorraine.
 
 L'objectif pédagogique est d'intégrer des méthodes d'apprentissage automatique (traitement du signal corporel, classification multiclasse) dans un système de contrôle robotique incarné, en lien avec les thématiques de **cognition embodiée** et d'**interaction humain-robot**.
